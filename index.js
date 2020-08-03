@@ -39,7 +39,7 @@ export default class Dots extends Component {
   static defaultProps = {
     width: 300,
 
-    marginHorizontal: 2,
+    marginHorizontal: 11,
     paddingVertical: 10,
     paddingHorizontal: 10,
 
